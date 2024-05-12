@@ -13,7 +13,7 @@ An e-commerce site whose idea is to compare product prices from multiple website
 
 ![cart](https://github.com/anagha-chaudhari/BachatAbit-E-commerce-Price-Comparison-Website/assets/143149376/2e6e9d8c-4f2a-4c9b-a0a2-eaa1c6e49b99)
 
-#Demo
+# Demo
 
 
 https://github.com/anagha-chaudhari/BachatAbit-E-commerce-Price-Comparison-Website/assets/143149376/a8c565eb-73e5-4cf8-9c87-fdd68e8af70d
