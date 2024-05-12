@@ -14,7 +14,7 @@
 ![cart](https://github.com/anagha-chaudhari/BachatAbit-E-commerce-Price-Comparison-Website/assets/143149376/2e6e9d8c-4f2a-4c9b-a0a2-eaa1c6e49b99)
 
 # Demo
-🌟 The user can view products from various sites. They can search for products according to categories, add them to the cart, and when they are ready to make a purchase, they can simply click on "Buy Now" which will redirect them to the specific site where they can complete the transaction.
+☁ The user can view products from various sites. They can search for products according to categories, add them to the cart, and when they are ready to make a purchase, they can simply click on "Buy Now" which will redirect them to the specific site where they can complete the transaction.
 
 
 https://github.com/anagha-chaudhari/BachatAbit-E-commerce-Price-Comparison-Website/assets/143149376/a8c565eb-73e5-4cf8-9c87-fdd68e8af70d
