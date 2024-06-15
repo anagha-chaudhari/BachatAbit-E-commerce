@@ -76,14 +76,16 @@
         .category {
             margin: 0 10px;
     cursor: pointer;
-    padding: 5px 10px;
-    border-radius: 5px;
-    background-color: rgb(110, 110, 110);
-    color: white;
+    padding: 1em 2.2em;
+    border-radius: 10px;
+    border: 2px solid #361362;
+    color: #361362;
+    background-color: transparent;
         }
 
         .category:hover {
-    background-color: rgb(74, 74, 74);
+    background-color: #361362;
+    color: white;
 }
 
         .search-container {
@@ -95,22 +97,27 @@
             padding: 10px;
             margin-top: 10px;
             width: 50%;
+            border: none;
             border-radius: 5px;
-            border: 2px solid #5b1818;
+            background-color: #fff6df;
+            border-bottom: 2px solid #000000;
+        }
+        .search-container input[type=text]:hover {
+            background-color: #fff6df;
         }
 
         .search-container input[type=submit] {
-            padding: 10px 20px;
+            padding: 12px 20px;
             margin-top: 10px;
             border-radius: 5px;
             border: none;
-            background-color: #4CAF50;
-            color: rgb(195, 110, 110);
+            background-color: #cd4039;
+            color: rgb(255, 255, 255);
             cursor: pointer;
         }
 
         .search-container input[type=submit]:hover {
-            background-color: #45a049;
+            background-color: #c42c24;
         }
         @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
         :root{
@@ -182,7 +189,7 @@ nav>.container{
     padding: 0 5px;
     border-radius: 3px;
     font-family: 'sans-serif'; 
-    font-size: 14px;
+    font-size: 18px;
     color: var(--color8); 
 }
 .container{
@@ -360,7 +367,7 @@ nav>.container{
 }
 
 .cart-item a:hover {
-    background-color: rgb(125, 165, 125); /* Sample background color on hover */
+    background-color: rgb(125, 165, 125); 
 }
 .remove-btn {
     font-family: sans-serif;
@@ -434,8 +441,9 @@ nav>.container{
 
 <div class="search-container">
     <input type="text" id="searchInput" onkeyup="searchProducts()" placeholder="Search for products..">
+    <input type="submit" value="Search">
+    
 </div>
-
 <div class="categories">
     <div class="category" onclick="filterByCategory('All')">All</div>
     <div class="category" onclick="filterByCategory('Mens')">Mens</div>
