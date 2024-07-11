@@ -17,7 +17,10 @@
 # Demo
 📌 The user can view products from various sites. They can search for products according to categories, add them to the cart, and when they are ready to make a purchase, they can simply click on "Buy Now" which will redirect them to the specific site where they can complete the transaction.
 
+---
 
-https://github.com/anagha-chaudhari/BachatAbit-E-commerce-Price-Comparison-Website/assets/143149376/a8c565eb-73e5-4cf8-9c87-fdd68e8af70d
+# Techstack
+
+![HTML](https://readmebadge.vercel.app/badges/html.svg)  ![CSS](https://readmebadge.vercel.app/badges/css.svg)  ![Javascript](https://readmebadge.vercel.app/badges/javascript.svg)
 
 
