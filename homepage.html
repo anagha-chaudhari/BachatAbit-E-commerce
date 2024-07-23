@@ -8,6 +8,45 @@
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 </head>
+<style>
+.navbar{
+	display: flex;
+	align-items: center;
+	padding: 20px;
+}
+
+nav{
+	flex: 1;
+	text-align: center;
+	background: radial-gradient(#ff7575, #ed5151);
+	padding: 10px 10px;
+	border-radius: 40px;
+	box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+
+nav ul{
+	display: inline-block;
+	list-style-type: none;
+}
+
+nav ul li{
+	display: inline-block;
+	margin-right: 30px;
+	margin-left: 30px;
+}
+
+nav ul li a{
+	text-decoration: none;
+	font-weight: 400;
+    color: white;
+	transition: all 0.5s ease-in-out;
+}
+
+nav ul li a:hover{
+	text-shadow: 0 0 10px rgb(218, 218, 218), 0 0 20px rgb(231, 231, 231);
+	transform: scale(1.2);
+}
+</style>
 <body>
 
     <!--Header-->
@@ -258,6 +297,7 @@
 });
 
 </script>
+<script src="cart.js"></script>
     
 </body>
 </html>
