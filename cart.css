@@ -512,7 +512,7 @@ nav ul li a:hover {
     padding: 10px;
     display: flex;
     align-items: center;
-    margin-top: 75px;
+    margin-top: 25px;
     animation-name: slideInRight; /* toast will slide from right */
     animation-duration: 0.5s; 
     animation-timing-function: ease-out;
