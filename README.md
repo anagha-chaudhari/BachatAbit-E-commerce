@@ -1,5 +1,5 @@
 # BachatAbit
-💰 An e-commerce site whose idea is to compare product prices from multiple websites and present the most affordable options to the user, sorted in ascending order of prices.
+💰 An e-commerce site whose idea is to get product prices from multiple websites and present the most affordable options to the user, sorted in ascending order of prices.
 
 📌 The user can view products from various sites. They can search for products according to categories, add them to the cart, and when they are ready to make a purchase, they can simply click on "Buy Now" which will redirect them to the specific site where they can complete the transaction.
 
