@@ -463,7 +463,7 @@ function addToCart(product) {
     
     Toastify({
       text: "Added to cart!",
-      duration: 4000,
+      duration: 2500,
       gravity: "top",
       position: "right",
       backgroundColor: "rgba(68, 112, 70, 0.7)",

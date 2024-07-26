@@ -333,8 +333,10 @@ nav ul li a:hover {
     grid-template-rows: auto 1fr auto;
     transform: translateX(100%);
     background: var(--color8);
-    transition: var(---transition);
+    transition: var(--transition);
+    overflow-y: auto; 
 }
+
 
 .cart.show {
     transform: none;
@@ -433,6 +435,7 @@ nav ul li a:hover {
     font-size: 14px;
     border-radius: 3px;
     cursor: pointer;
+    text-decoration: none;
     transition: background-color 0.3s ease;
 }
 
